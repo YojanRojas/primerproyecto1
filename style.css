@@ -1,0 +1,61 @@
+
+
+p {
+    color: blue;
+    font-size: 108px;
+}
+
+li{
+    color:red;
+}
+
+
+.Madrid {
+    color:rgb(255, 251, 0);
+    font-weight: bold;
+}
+
+#apellido {
+    color: pink;
+    font-size: 24px;
+}
+
+#apellido2 {
+    color: green;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+img {
+    width: 400px;
+    height: 400pxs;
+}
+#imagen1{
+    width: 400px;
+    border: 1px solid red;
+    border-radius: 10%;
+}
+div{
+    height: 200px;
+    background-color: blue;
+    border: 2px solid red;
+    color: white;
+    display: inline
+}
+
+#container1{
+    width: 600px;
+    height: 100px;
+    border: 2px solid rgb(0, 255, 38);
+    background-color: black;
+}
+.caja1 {
+    width: 200px;
+    height: 100px;
+    border: 2px solid rgb(0, 255, 38);
+    background-color: black;
+    display: inline-block;
+
+}
+
+
