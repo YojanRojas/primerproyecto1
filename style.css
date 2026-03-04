@@ -55,6 +55,8 @@ div{
     border: 2px solid rgb(0, 255, 38);
     background-color: black;
     display: inline-block;
+    /*display: none;*/
+    
 
 }
 
